@@ -1,0 +1,15 @@
+/Users/artembelokolenko/Documents/DomashneeSeminar1/HomeWork8/bin/Debug/net6.0/HomeWork8
+/Users/artembelokolenko/Documents/DomashneeSeminar1/HomeWork8/bin/Debug/net6.0/HomeWork8.deps.json
+/Users/artembelokolenko/Documents/DomashneeSeminar1/HomeWork8/bin/Debug/net6.0/HomeWork8.runtimeconfig.json
+/Users/artembelokolenko/Documents/DomashneeSeminar1/HomeWork8/bin/Debug/net6.0/HomeWork8.dll
+/Users/artembelokolenko/Documents/DomashneeSeminar1/HomeWork8/bin/Debug/net6.0/HomeWork8.pdb
+/Users/artembelokolenko/Documents/DomashneeSeminar1/HomeWork8/obj/Debug/net6.0/HomeWork8.csproj.AssemblyReference.cache
+/Users/artembelokolenko/Documents/DomashneeSeminar1/HomeWork8/obj/Debug/net6.0/HomeWork8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artembelokolenko/Documents/DomashneeSeminar1/HomeWork8/obj/Debug/net6.0/HomeWork8.AssemblyInfoInputs.cache
+/Users/artembelokolenko/Documents/DomashneeSeminar1/HomeWork8/obj/Debug/net6.0/HomeWork8.AssemblyInfo.cs
+/Users/artembelokolenko/Documents/DomashneeSeminar1/HomeWork8/obj/Debug/net6.0/HomeWork8.csproj.CoreCompileInputs.cache
+/Users/artembelokolenko/Documents/DomashneeSeminar1/HomeWork8/obj/Debug/net6.0/HomeWork8.dll
+/Users/artembelokolenko/Documents/DomashneeSeminar1/HomeWork8/obj/Debug/net6.0/refint/HomeWork8.dll
+/Users/artembelokolenko/Documents/DomashneeSeminar1/HomeWork8/obj/Debug/net6.0/HomeWork8.pdb
+/Users/artembelokolenko/Documents/DomashneeSeminar1/HomeWork8/obj/Debug/net6.0/HomeWork8.genruntimeconfig.cache
+/Users/artembelokolenko/Documents/DomashneeSeminar1/HomeWork8/obj/Debug/net6.0/ref/HomeWork8.dll
